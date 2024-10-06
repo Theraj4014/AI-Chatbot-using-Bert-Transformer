@@ -47,3 +47,7 @@ The BERT model and embeddings are saved at the path /content/gdrive/MyDrive/medi
 
 ### Visualization of Key Terms
 DoctorGPT also supports creating a word cloud based on the most frequent terms found in the health advice data. This visualization helps users understand the focus areas of the provided advice.
+
+## Image of chatbot 
+![Alt text](chatbot_image.jpg)
+
